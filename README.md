@@ -82,7 +82,7 @@ The project uses a retail sales dataset containing multiple tables:
 
 Example:
 
-![Dashboard Screenshot](Sales Dashboard.png)
+Sales Dashboard.png
 
 ---
 
