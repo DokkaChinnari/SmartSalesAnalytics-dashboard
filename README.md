@@ -78,11 +78,8 @@ The project uses a retail sales dataset containing multiple tables:
 
 ## 📷 Dashboard Preview
 
-(Add a screenshot of your dashboard here.)
 
-Example:
-
-Sales Dashboard.png
+<img width="1542" height="865" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/4cd8e405-af83-42e4-b047-d39923105204" />
 
 ---
 
@@ -129,9 +126,9 @@ B.Tech - Artificial Intelligence & Machine Learning
 
 Passionate about Data Analytics, Power BI, SQL, Python, and Machine Learning.
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/DokkaChinnari
 
-LinkedIn: https://linkedin.com/in/YourLinkedIn
+LinkedIn: https://www.linkedin.com/in/dokka-chinnari-aiml/
 
 ---
 
